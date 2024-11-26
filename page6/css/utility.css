@@ -1,0 +1,65 @@
+/* fonts */
+.medium {
+  font-family: "Gilroy-Medium";
+}
+
+.semi-bold {
+  font-family: "Gilroy-SemiBold";
+}
+
+.bold {
+  font-family: "Gilroy-Bold";
+}
+
+/* font sizes */
+.f-18 {
+  font-size: 1.125rem;
+}
+
+.f-32 {
+  font-size: 2rem;
+}
+
+.f-40 {
+  font-size: 2.5rem;
+}
+
+.f-48 {
+  font-size: 3rem;
+}
+
+/* images */
+.responsive-img {
+  width: 100%;
+  height: auto;
+}
+
+/* text styles */
+.highlight {
+  color: #0065fe;
+}
+
+.button {
+  width: fit-content;
+  height: 44px;
+  color: #fff;
+  text-align: center;
+  padding: 12px 24px;
+  border-radius: 100px;
+  background-color: #0065fe;
+  border: none;
+}
+
+/* display */
+.flex {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+/* margin */
+.centered {
+  width: fit-content;
+  text-align: center;
+  margin: 0 auto;
+}
